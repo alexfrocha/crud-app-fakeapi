@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "login": "alexfrocha",
+      "id": 1,
+      "avatar_url": "https://78.media.tumblr.com/47242172ef6e9976bac0cf156a9b2fee/tumblr_p5chwqDcME1rpwm80o1_500.jpg",
+      "name": "Álex Portscher",
+      "email": "alex@email.com",
+      "followers": 43,
+      "following": 54
+    },
+    {
+      "login": "nataliakt",
+      "id": 2,
+      "avatar_url": "https://avatars.githubusercontent.com/u/9091491?v=4",
+      "name": "Natalia Kelim Thiel",
+      "email": "natalia@email.com",
+      "followers": 51,
+      "following": 7
+    }
+  ],
+  "repos": [
+    {
+      "name": "alura-iIsjsjnn",
+      "postId": 2,
+      "data": "1 de jan. de 2021",
+      "id": 7
+    },
+    {
+      "name": "alura-react-native-comecando-do-zeroghg",
+      "postId": 2,
+      "data": "1 de jan. de 2021",
+      "id": 8
+    },
+    {
+      "name": "bot_piano_til",
+      "postId": 1,
+      "data": "1 de jan. de 2021",
+      "id": 4
+    },
+    {
+      "name": "2048evolution",
+      "postId": 2,
+      "data": "1 de jan. de 2021ws",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "alura-pikachu",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "name": "alura-react-native-comecando-do-zero",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "name": "KKKKK",
+      "data": "k",
+      "postId": 2,
+      "id": 9
+    },
+    {
+      "name": "alura-one",
+      "data": "1 de Fevereiro",
+      "postId": 1,
+      "id": 10
+    }
+  ]
+}
